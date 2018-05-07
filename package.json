@@ -1,0 +1,14 @@
+{
+  "name": "bs-service",
+  "version": "1.0.0",
+  "description": "provide service ",
+  "main": "bs-service.js",
+  "scripts": {
+    "test": "node bs-service.js"
+  },
+  "keywords": [
+    "bsservice"
+  ],
+  "author": "dan.qi",
+  "license": "ISC"
+}
