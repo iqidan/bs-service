@@ -11,5 +11,6 @@
   ],
   "homepage": "https://github.com/iqidan/bs-service",
   "author": "dan.qi",
-  "license": "ISC"
+  "license": "ISC",
+  "private": true
 }
